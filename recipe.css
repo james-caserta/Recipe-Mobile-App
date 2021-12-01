@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: whitesmoke;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  font-weight: 100;
+}
+h3 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+  font-weight: 100;
+}
+
+.heart {
+  color: violet;
+}
+
+.mobile-container {
+  width: 400px;
+  height: 700px;
+}
+
+img {
+  max-width: 100%;
+}
